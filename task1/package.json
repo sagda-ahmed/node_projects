@@ -1,0 +1,18 @@
+{
+  "name": "l1-node",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "validator": "^13.15.26",
+    "yarg": "^1.0.8",
+    "yargs": "^16.2.0"
+  }
+}

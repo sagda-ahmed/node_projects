@@ -1,0 +1,11 @@
+[{"id":"1","fname":"sagda","lname":"ahmed","age":20,"city":"giza"},
+{"id":"2","fname":"mohamed","lname":"tawfik","age":23,"city":"fayom"},
+{"id":"3","fname":"sara","lname":"ali","age":22,"city":"mansora"},
+{"id":"4","fname":"salma","lname":"salah","age":41,"city":"asyout"},
+{"id":"5","fname":"ali","lname":"fayz","age":55,"city":"giza"},
+{"id":"5","fname":"mina","lname":"girgs","age":24,"city":"sohag"},
+{"id":"6","fname":"sama","lname":"ahmed","age":15,"city":"bihera"},
+{"id":"7","fname":"samira","lname":"ali","age":28,"city":"mansora"},
+{"id":"8","fname":"donya","lname":"samy","age":26,"city":"giza"},
+{"id":"9","fname":"omar","lname":"said","age":22,"city":"aswan"},
+{"id":"10","fname":"ahmed","lname":"gomaa","age":21,"city":"giza"}]
